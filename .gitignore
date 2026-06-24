@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+table_data.db
+.env
+LatexTemplet.zip
+
+config.py
